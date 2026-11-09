@@ -33,7 +33,7 @@ My goal is AI that a clinician can actually see through, audit, and trust at the
 
 - MIDL 2027 — Special Track: Clinical Translation & Validation (submission in preparation).
   <!-- 录用后补上 OpenReview 链接与 PMLR 卷号 -->
-- _Add one or two lines about the project you are currently leading at ASTRI._
+- Long Video Understanding and KV cache optimizaiton 
 
 ---
 
