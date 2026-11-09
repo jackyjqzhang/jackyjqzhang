@@ -32,7 +32,7 @@ My goal is AI that a clinician can actually see through, audit, and trust at the
 ### Current work
 
 - **Long video understanding and KV-cache optimisation** — efficient inference for hour-scale video, keeping memory cost bounded without losing the long-range signal.
-- **MIDL 2027 — Special Track: Clinical Translation & Validation** — clinical-translation study in preparation.
+
 
 ---
 
