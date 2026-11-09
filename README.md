@@ -16,7 +16,7 @@ My goal is AI that a clinician can actually see through, audit, and trust at the
 | **Work email** | [jackyzhang@astri.org](mailto:jackyzhang@astri.org) |
 | **Personal email** | [jacky.jqzhang@gmail.com](mailto:jacky.jqzhang@gmail.com) |
 | **GitHub** | [@jackyjqzhang](https://github.com/jackyjqzhang) |
-| **OpenReview** | `~Jacky_Zhang1` <!-- 用你 profile URL 里的真实 ID 替换 --> |
+| **OpenReview** | `~Jacky_J._Q._Zhang1` <!-- 用你 profile URL 里的真实 ID 替换 --> |
 
 ---
 
