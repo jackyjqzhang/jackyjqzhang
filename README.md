@@ -1,4 +1,4 @@
-# jacky zhang
+# Jacky J. Q. Zhang
 
 **Researcher — Medical AI · Long-form Video Understanding · Healthcare IoT**
 
