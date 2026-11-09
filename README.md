@@ -33,7 +33,7 @@ My goal is AI that a clinician can actually see through, audit, and trust at the
 
 - MIDL 2027 — Special Track: Clinical Translation & Validation (submission in preparation).
   <!-- 录用后补上 OpenReview 链接与 PMLR 卷号 -->
-- Long Video Understanding and KV cache optimizaiton 
+- Long Video Understanding and KV cache optimisaiton 
 
 ---
 
