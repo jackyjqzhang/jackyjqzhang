@@ -16,7 +16,7 @@ My goal is AI that a clinician can actually see through, audit, and trust at the
 | **Work email** | [jackyzhang@astri.org](mailto:jackyzhang@astri.org) |
 | **Personal email** | [jacky.jqzhang@gmail.com](mailto:jacky.jqzhang@gmail.com) |
 | **GitHub** | [@jackyjqzhang](https://github.com/jackyjqzhang) |
-| **OpenReview** | `~Jacky_J._Q._Zhang1`|
+| **OpenReview** | [`~Jacky_J._Q._Zhang1`](https://openreview.net/profile?id=~Jacky_J._Q._Zhang1) |
 
 ---
 
@@ -31,9 +31,8 @@ My goal is AI that a clinician can actually see through, audit, and trust at the
 
 ### Current work
 
-- MIDL 2027 — Special Track: Clinical Translation & Validation (submission in preparation).
-  <!-- 录用后补上 OpenReview 链接与 PMLR 卷号 -->
-- Long Video Understanding and KV cache optimisaiton 
+- **Long video understanding and KV-cache optimisation** — efficient inference for hour-scale video, keeping memory cost bounded without losing the long-range signal.
+- **MIDL 2027 — Special Track: Clinical Translation & Validation** — clinical-translation study in preparation.
 
 ---
 
